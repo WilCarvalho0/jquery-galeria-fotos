@@ -21,6 +21,6 @@ ver imagem em tamanho real
 `).appendTo(novoItem);
 $(novoItem).appendTo('ul');  
 $(novoItem).fadeIn(1000);
-$('#endereco-iamgem-nova').val('')  
+$('#endereco-imagem-nova').val('')  
 })
 })
